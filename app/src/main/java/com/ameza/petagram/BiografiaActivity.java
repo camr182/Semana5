@@ -8,9 +8,7 @@ import android.view.MenuItem;
 
 import com.ameza.petagram.controlador.Acciones;
 
-/**
- * Created by andres on 2/03/17.
- */
+
 
 public class BiografiaActivity extends AppCompatActivity {
 

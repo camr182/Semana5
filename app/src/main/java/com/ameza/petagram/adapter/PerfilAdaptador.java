@@ -16,9 +16,7 @@ import com.ameza.petagram.pojo.Mascota;
 
 import java.util.ArrayList;
 
-/**
- * Created by andres on 16/02/17.
- */
+
 
 public class PerfilAdaptador extends RecyclerView.Adapter<PerfilAdaptador.ContactoViewHolder>{
 

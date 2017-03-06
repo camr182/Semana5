@@ -8,9 +8,7 @@ import com.ameza.petagram.db.ConstructorMascotas;
 
 import java.util.ArrayList;
 
-/**
- * Created by andres on 5/03/17.
- */
+
 
 public class PerfilFragmentPresentador implements IRecyclerViewFragmentPresenter{
 

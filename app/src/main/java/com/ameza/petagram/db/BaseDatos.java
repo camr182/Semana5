@@ -10,9 +10,7 @@ import com.ameza.petagram.pojo.Mascota;
 
 import java.util.ArrayList;
 
-/**
- * Created by andres on 5/03/17.
- */
+
 
 public class BaseDatos extends SQLiteOpenHelper{
 

@@ -1,8 +1,6 @@
 package com.ameza.petagram.db;
 
-/**
- * Created by andres on 5/03/17.
- */
+
 
 public final class ConstantesBaseDatos {
 

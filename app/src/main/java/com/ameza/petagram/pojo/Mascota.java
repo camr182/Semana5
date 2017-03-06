@@ -2,9 +2,7 @@ package com.ameza.petagram.pojo;
 
 import java.io.Serializable;
 
-/**
- * Created by andres on 16/02/17.
- */
+
 @SuppressWarnings("serial")
 public class Mascota implements Serializable {
 

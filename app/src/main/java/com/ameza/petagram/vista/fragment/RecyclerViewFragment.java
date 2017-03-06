@@ -18,9 +18,6 @@ import com.ameza.petagram.presentador.RecyclerViewFragmentPresentador;
 
 import java.util.ArrayList;
 
-/**
- * Created by andres on 2/03/17.
- */
 
 public class RecyclerViewFragment extends Fragment implements IRecyvlerViewFragmentView{
 

@@ -12,9 +12,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by andres on 5/03/17.
- */
+
 
 public class ConstructorMascotas {
     private static final int LIKE = 1;

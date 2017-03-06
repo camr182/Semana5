@@ -14,9 +14,7 @@ import com.ameza.petagram.pojo.Mascota;
 
 import java.util.ArrayList;
 
-/**
- * Created by andres on 18/02/17.
- */
+
 
 public class Acciones implements View.OnClickListener{
 
