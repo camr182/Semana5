@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nombre_mascota">33dp</dimen>
+    <dimen name="telefono_mascota">20sp</dimen>
+    <dimen name="top_mascota">20dp</dimen>
+    <dimen name="marg_left_mascota">10dp</dimen>
+    <dimen name="corner_radius_de_mi_cardview">4dp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+    <dimen name="elevacion_appbar">4dp</dimen>
+
+
+    <dimen name="tamano_imagen_mascota">200dp</dimen>
+    <dimen name="marg_left_contacto">10dp</dimen>
+
+
+</resources>
