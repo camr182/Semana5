@@ -33,15 +33,15 @@ public class ConstructorMascotas {
     }
 
     public void insertarMascotas(BaseDatos bd){
-        bd.insertarMascota(crearValoresMascotas(R.drawable.conejo,"Conejo Pancho"));
-        bd.insertarMascota(crearValoresMascotas(R.drawable.gato,"Gato Pancho"));
-        bd.insertarMascota(crearValoresMascotas(R.drawable.pato,"Pato Donald"));
-        bd.insertarMascota(crearValoresMascotas(R.drawable.tortuga,"Tortuga Nija"));
-        bd.insertarMascota(crearValoresMascotas(R.drawable.perro,"Perro Dalmata"));
-        bd.insertarMascota(crearValoresMascotas(R.drawable.perro2,"Perra lika"));
-        bd.insertarMascota(crearValoresMascotas(R.drawable.perro3,"Perro Lufi"));
+        bd.insertarMascota(crearValoresMascotas(R.drawable.conejo,"Pablito"));
+        bd.insertarMascota(crearValoresMascotas(R.drawable.gato,"Gardfield"));
+        bd.insertarMascota(crearValoresMascotas(R.drawable.pato,"Lucas"));
+        bd.insertarMascota(crearValoresMascotas(R.drawable.tortuga,"Miguelito"));
+        bd.insertarMascota(crearValoresMascotas(R.drawable.perro,"Boby"));
+            bd.insertarMascota(crearValoresMascotas(R.drawable.perro2,"Bimbo"));
+        bd.insertarMascota(crearValoresMascotas(R.drawable.perro3,"El maykol"));
 
-        Mascota mas1=new Mascota(R.drawable.conejo,"Conejo Pancho",true,1);
+        Mascota mas1=new Mascota(R.drawable.conejo,"Pablito",true,1);
         mas1.setId(1);
         darLikeMascota(mas1);
         darLikeMascota(mas1);
@@ -49,7 +49,7 @@ public class ConstructorMascotas {
         darLikeMascota(mas1);
         darLikeMascota(mas1);
 
-        Mascota mas2=new Mascota(R.drawable.gato,"Gato Pancho",true,1);
+        Mascota mas2=new Mascota(R.drawable.gato,"Gardfield",true,1);
         mas2.setId(2);
         darLikeMascota(mas2);
 
