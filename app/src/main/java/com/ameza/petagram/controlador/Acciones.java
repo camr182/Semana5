@@ -53,13 +53,13 @@ public class Acciones implements View.OnClickListener{
             case R.id.actionAcercaDe:
                 intent=new Intent(activity, BiografiaActivity.class);
                 activity.startActivity(intent);
-                Toast.makeText(activity.getApplicationContext(),"Aplicación realizada por ANDRES FELIPE RAMIREZ CAICEDO: andresyfr@gmail.com",Toast.LENGTH_SHORT).show();
+
                 //Log.i("ActionBar", "acerca de!");;
                 return true;
             case R.id.actionContacto:
                 intent=new Intent(activity, MenuContacto.class);
                 activity.startActivity(intent);
-                Toast.makeText(activity.getApplicationContext(),"Contacto Aplicación realizada por ANDRES FELIPE RAMIREZ CAICEDO: andresyfr@gmail.com",Toast.LENGTH_SHORT).show();
+
                 //Log.i("ActionBar", "acerca de!");;
                 return true;
             default:
